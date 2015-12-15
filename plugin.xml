@@ -21,7 +21,7 @@
     <engines>
         <engine name="cordova" version=">=3.6.0" />
         <engine name="cordova-plugman" version=">=4.3.0" />
-        <engine name="cordova-ios" version="<4.0.0" />
+        <engine name="cordova-ios" version="<6.0.0" />
     </engines>
 
     <!-- dependencies -->
